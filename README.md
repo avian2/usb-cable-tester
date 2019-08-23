@@ -62,13 +62,15 @@ Note however that you are measuring the resistance of the cable as well as four 
 
 ## See also
 
-* [FemtoCow's cable resistance tester][1].
-* [SZDIY USBcablecracker][2].
-* Blog post about [measuring USB cables][3].
+* [FemtoCow's cable resistance tester][1] on Tindie.
+* [SZDIY USBcablecracker][2] and a blog post about various other tools for [measuring USB cables][3].
+* Blog post about making [this tool][4] and [results of some measurements][5].
 
 [1]: https://www.tindie.com/products/FemtoCow/usb-cable-resistance-tester/
 [2]: https://github.com/szdiy/USBcablecracker
 [3]: https://www.tablix.org/~avian/blog/archives/2019/06/measuring_usb_cable_resistance/
+[4]: https://www.tablix.org/~avian/blog/archives/2019/08/usb_cable_resistance_tester/
+[5]: https://www.tablix.org/~avian/blog/archives/2019/08/resistance_measurements_of_various_usb_cables/
 
 ## License
 
